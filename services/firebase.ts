@@ -7,7 +7,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { getReactNativePersistence } from "firebase/auth";
 
 const firebaseConfig = { 
-  apiKey: "AIzaSyAdkfDuFyPfbPJ-aw_SkIR3ANzbqONUZrA", 
+  apiKey: "", 
   authDomain: "odontoapp-b45c1.firebaseapp.com", 
   projectId: "odontoapp-b45c1", 
   storageBucket: "odontoapp-b45c1.firebasestorage.app", 
